@@ -119,6 +119,7 @@ be made to modify or delete them.
 Parts can be added with a unique part ID generated.
 
 <img src="images/add_part.png">
+<img src="images/modify_part.png">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
