@@ -113,17 +113,27 @@ data from a paper-based system but would now like you to develop a more sophisti
 ### Main Screen
 The main screen is where parts and products are listed in tables. New parts and products can be created or a selection can 
 be made to modify or delete them.
-![Product Name Screen Shot][product-screenshot]
+<img src="images/main_screen.png">
 
 ### Add Part Screen
 Parts can be added with a unique part ID generated.
+<img src="images/add_part.png">
 
-<img src="images/add_part.png" style="float: left; width: 50%; margin-right:1%; margin-bottom:0.5em;">
-<img src="images/modify_part.png" style="float: left; width: 50%; margin-right:1%; margin-bottom:0.5em;">
-<p style="clear:both;">
+### Modify Part Screen
+Parts can also be modified from a selection on the main screen. All fields can be edited except for Part IDs.
+<img src="images/modify_part.png">
+
+### Add Product Screen
+Products can be added with all fields editable except for the product ID. Individual parts that were added previously can 
+be added from the top table to the bottom table. The bottom table lists the all the associated parts to each product.
+<img src="images/add_product.png">
+
+### Modify Product Screen
+Products can be modified from a selection on the main screen. 
+<img src="images/modify_product.png">
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- ROADMAP -->
 ## Roadmap
 
