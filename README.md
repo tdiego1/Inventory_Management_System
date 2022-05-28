@@ -120,6 +120,7 @@ Parts can be added with a unique part ID generated.
 
 <img src="images/add_part.png" style="float: left; width: 30%; margin-right:1%; margin-bottom:0.5em;">
 <img src="images/modify_part.png" style="float: left; width: 30%; margin-right:1%; margin-bottom:0.5em;">
+<p style="clear:both;">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
