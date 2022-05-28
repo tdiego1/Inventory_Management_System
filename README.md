@@ -118,7 +118,7 @@ be made to modify or delete them.
 ### Add Part Screen
 Parts can be added with a unique part ID generated.
 
-<img src="images/logo.png">
+<img src="images/add_part.png">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
