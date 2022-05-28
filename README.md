@@ -25,7 +25,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Inventory Tracking System</h3>
+<h3 align="center">Inventory Management System</h3>
 
   <p align="center">
     The purpose of this application is to add, modify, and delete parts and products.
@@ -162,7 +162,7 @@ Products can be modified from a selection on the main screen.
 
 Diego Torres - tdiego001@gmail.com
 
-Project Link: [https://github.com/tdiego1/Inventory_Tracking_System](https://github.com/tdiego1/Inventory_Tracking_System)
+Project Link: [https://github.com/tdiego1/Inventory_Management_System](https://github.com/tdiego1/Inventory_Management_System)
 
 [![Linkedin Diego Torres][linkedin-shield]][linkedin-url]
 <p align="right">(<a href="#top">back to top</a>)</p>
