@@ -21,7 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/tdiego1/Inventory_Tracking_System">
+  <a href="https://github.com/tdiego1/Inventory_Management_System">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
