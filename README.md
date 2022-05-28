@@ -134,31 +134,23 @@ Products can be modified from a selection on the main screen.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Login Form
-  - [x] Accept username and password
-  - [x] Determine and display location
-  - [x] Display login form in French and English depending on system language
-  - [x] Automatically translate error control messages
-  - [x] Alert when an appointment is within 15 minutes of login
-- [x] Customer Screen
-  - [x] Records can be added, updated, and deleted
-  - [x] Country and first-level divisions are pre-populated
-  - [x] All original customer data is displayed in customer form
-  - [x] All fields can be updated except for customer ID
-- [ ] Appointments Screen
-    - [x] Records can be added, updated, and deleted
-    - [x] Appointments can be filtered by all, month, or week
-    - [x] User is able to adjust appointment times
-    - [x] Input validation
-    - [ ] Added drop-down menus for start and end times
-- [ ] Reports Screen
-  - [x] Generate customer appointments by type and month report
-  - [x] Generate schedule by contacts report
-  - [x] Generate number of appointments per location
-  - [ ] Generate login record report
+- [x] Main Screen
+  - [x] Parts pane
+  - [x] Products pane
+  - [x] Accept selection from panes to add, modify, and delete
+- [x] Add Part Screen
+  - [x] Add all fields to part object
+- [x] Modify Part Screen
+    - [x] User can modify all fields except ID
+- [x] Add Product Screen
+  - [x] auto-populate top parts pane with all parts
+- [x] Modify Product Screen
+  - [x] Auto-populate top parts pane with all parts
+  - [x] Auto-populate bottom pane with associated parts
     
 
 <!-- See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues). -->
@@ -170,7 +162,7 @@ Products can be modified from a selection on the main screen.
 
 Diego Torres - tdiego001@gmail.com
 
-Project Link: [https://github.com/tdiego1/Scheduling_App](https://github.com/tdiego1/Scheduling_App)
+Project Link: [https://github.com/tdiego1/Inventory_Tracking_System](https://github.com/tdiego1/Inventory_Tracking_System)
 
 [![Linkedin Diego Torres][linkedin-shield]][linkedin-url]
 <p align="right">(<a href="#top">back to top</a>)</p>
